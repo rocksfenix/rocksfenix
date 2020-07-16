@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<img
+ src="https://cdn.statically.io/gh/rocksfenix/sources/14fb922d/spacecraft.svg"
+ alt="space"
+ width="300"
+/>
+
 <!--
 **rocksfenix/rocksfenix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
