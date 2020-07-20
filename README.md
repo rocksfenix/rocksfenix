@@ -10,7 +10,7 @@
    />
   </a>
   <br>
-   Let's build amazing things with code.
+   Let's build powerful things with code.
   <br>
 </h1>
 
